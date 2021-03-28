@@ -1,0 +1,9 @@
+h1 {
+  font-size: 3rem;
+  color: greenyellow;
+  border: 2px solid black; }
+
+.box1 {
+  -webkit-transition: color 0.2s linear;
+  -o-transition: color 0.2s linear;
+  transition: color 0.2s linear; }
